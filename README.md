@@ -9,3 +9,5 @@ By default it will create a file server at the current directory you are at on p
 
 You can add the flag -port to change the port that your server runs at. `$ ./fs-mac -port 5000`.
 You can add the flag -path to change the path that is served at. `$ ./fs-mac -path "~/User/Documents/projects/hello-world"`.
+
+To make this package available for use anywhere within your system, add the file to your bin PATH.
